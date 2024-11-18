@@ -99,7 +99,6 @@ export default db;
 
 [<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" width="150" />](https://firebase.google.com/ "Firebase")
 
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech/ "Built with Love")
 
 ## :books: Available Scripts
 
