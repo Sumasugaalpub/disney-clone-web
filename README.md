@@ -2,14 +2,7 @@
 
 ![Modern Disney Clone using React JS](https://user-images.githubusercontent.com/71302066/201341087-e0d292e3-cc71-4691-b274-cb662b62da23.png "Modern Disney Clone using React JS")
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/disney-clone)](https://github.com/Technical-Shubham-tech/disney-clone/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/disney-clone/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/disney-clone?max-age=2592000)](https://github.com/Technical-Shubham-tech/disney-clone/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/disney-clone/main?max-age=2592000)](https://github.com/Technical-Shubham-tech/disney-clone/commits "Github commits")
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://clonedisneyplus.web.app "Website Status")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/disney-clone)](https://github.com/Technical-Shubham-tech/disney-clone/issues "GitHub issues")
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Technical-Shubham-tech/disney-clone)](https://github.com/Technical-Shubham-tech/disney-clone/pulls "GitHub pull requests")
+
 
 ## ⚠️ Before you start
 
